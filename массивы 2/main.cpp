@@ -1,6 +1,4 @@
 ﻿#include <iostream>
-#include <ctime>
-#include <Windows.h>
 
 void task1()
 {
